@@ -8,7 +8,6 @@ class Spinner extends Component {
                     <span className="sr-only">Loading...</span>
                 </div>
             </div>
-
         )
     }
 }
