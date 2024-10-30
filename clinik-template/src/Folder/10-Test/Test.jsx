@@ -37,7 +37,6 @@ import React, { Component } from 'react'
                     </div>
                 </div>
             </div>
-
         )
     }
 }
